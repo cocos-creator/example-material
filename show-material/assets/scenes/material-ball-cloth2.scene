@@ -2396,7 +2396,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -2928,7 +2928,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -3280,7 +3280,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -3863,7 +3863,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -4968,7 +4968,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -5361,7 +5361,7 @@
       "x": -0.7071067811865475,
       "y": 0,
       "z": 0,
-      "w": 0.7071067811865476
+      "w": 0.7071067811865477
     },
     "_lscale": {
       "__type__": "cc.Vec3",
@@ -6224,7 +6224,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -7608,7 +7608,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -7960,7 +7960,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -8905,7 +8905,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -10726,7 +10726,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -11821,7 +11821,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -12541,7 +12541,7 @@
     "propertyPath": [
       "_shadowCastingMode"
     ],
-    "value": 1
+    "value": 0
   },
   {
     "__type__": "CCPropertyOverrideInfo",
@@ -12926,7 +12926,7 @@
   },
   {
     "__type__": "cc.ShadowsInfo",
-    "_type": 0,
+    "_type": 1,
     "_enabled": true,
     "_normal": {
       "__type__": "cc.Vec3",
@@ -12940,24 +12940,24 @@
       "r": 0,
       "g": 0,
       "b": 0,
-      "a": 76
+      "a": 182
     },
-    "_autoAdapt": true,
-    "_pcf": 0,
+    "_autoAdapt": false,
+    "_pcf": 1,
     "_bias": 0.00001,
     "_packing": false,
     "_linear": true,
     "_selfShadow": false,
     "_normalBias": 0,
     "_near": 1,
-    "_far": 30,
+    "_far": 200,
     "_aspect": 1,
-    "_orthoSize": 5,
+    "_orthoSize": 100,
     "_maxReceived": 4,
     "_size": {
       "__type__": "cc.Vec2",
-      "x": 512,
-      "y": 512
+      "x": 2048,
+      "y": 2048
     }
   },
   {

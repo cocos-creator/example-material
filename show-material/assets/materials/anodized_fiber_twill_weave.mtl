@@ -57,7 +57,7 @@
         "b": 255,
         "a": 70
       },
-      "normalStrenth": 0.2,
+      "normalStrenth": 0.3,
       "mainTexture": {
         "__uuid__": "8c97dbe3-e261-405d-8450-890ec6bc945d@6c48a",
         "__expectedType__": "cc.Texture2D"
