@@ -49,7 +49,6 @@
         "a": 65
       },
       "metallic": 0.7,
-      "normalStrenth": 0.7,
       "mainTexture": {
         "__uuid__": "1685cb34-408a-4ddd-a741-a96fec12826b@6c48a",
         "__expectedType__": "cc.Texture2D"
