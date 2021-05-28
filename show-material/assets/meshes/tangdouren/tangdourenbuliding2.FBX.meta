@@ -1,0 +1,58 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "77564638-e8ed-46fc-800e-429e1d5b57e6",
+  "files": [],
+  "subMetas": {
+    "0fc92": {
+      "importer": "gltf-mesh",
+      "uuid": "77564638-e8ed-46fc-800e-429e1d5b57e6@0fc92",
+      "displayName": "",
+      "id": "0fc92",
+      "name": "Line001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0d69": {
+      "importer": "gltf-scene",
+      "uuid": "77564638-e8ed-46fc-800e-429e1d5b57e6@c0d69",
+      "displayName": "",
+      "id": "c0d69",
+      "name": "tangdourenbuliding2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "77564638-e8ed-46fc-800e-429e1d5b57e6@c0d69",
+    "assetFinder": {
+      "meshes": [
+        "77564638-e8ed-46fc-800e-429e1d5b57e6@0fc92"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "77564638-e8ed-46fc-800e-429e1d5b57e6@c0d69"
+      ]
+    }
+  }
+}
