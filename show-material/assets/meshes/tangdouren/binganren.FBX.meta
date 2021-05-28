@@ -1,0 +1,184 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e007be73-7090-4c33-a276-cc816dde88e8",
+  "files": [],
+  "subMetas": {
+    "46007": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@46007",
+      "displayName": "",
+      "id": "46007",
+      "name": "Sphere003.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "54164": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@54164",
+      "displayName": "",
+      "id": "54164",
+      "name": "Sphere005.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "684db": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@684db",
+      "displayName": "",
+      "id": "684db",
+      "name": "Cylinder002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0fc92": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@0fc92",
+      "displayName": "",
+      "id": "0fc92",
+      "name": "Line001.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f648": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@2f648",
+      "displayName": "",
+      "id": "2f648",
+      "name": "Line002.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "23b20": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@23b20",
+      "displayName": "",
+      "id": "23b20",
+      "name": "Sphere002.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55e30": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@55e30",
+      "displayName": "",
+      "id": "55e30",
+      "name": "Line004.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "60e52": {
+      "importer": "gltf-mesh",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@60e52",
+      "displayName": "",
+      "id": "60e52",
+      "name": "Line007.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f70f6": {
+      "importer": "gltf-scene",
+      "uuid": "e007be73-7090-4c33-a276-cc816dde88e8@f70f6",
+      "displayName": "",
+      "id": "f70f6",
+      "name": "binganren.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "e007be73-7090-4c33-a276-cc816dde88e8@f70f6",
+    "assetFinder": {
+      "meshes": [
+        "e007be73-7090-4c33-a276-cc816dde88e8@684db",
+        "e007be73-7090-4c33-a276-cc816dde88e8@0fc92",
+        "e007be73-7090-4c33-a276-cc816dde88e8@2f648",
+        "e007be73-7090-4c33-a276-cc816dde88e8@23b20",
+        "e007be73-7090-4c33-a276-cc816dde88e8@55e30",
+        "e007be73-7090-4c33-a276-cc816dde88e8@46007",
+        "e007be73-7090-4c33-a276-cc816dde88e8@54164",
+        "e007be73-7090-4c33-a276-cc816dde88e8@60e52"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "e007be73-7090-4c33-a276-cc816dde88e8@f70f6"
+      ]
+    }
+  }
+}
