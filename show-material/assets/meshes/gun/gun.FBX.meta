@@ -1,0 +1,146 @@
+{
+  "ver": "2.0.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810",
+  "files": [],
+  "subMetas": {
+    "27074": {
+      "importer": "gltf-scene",
+      "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@27074",
+      "displayName": "",
+      "id": "27074",
+      "name": "gun.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e83c": {
+      "importer": "gltf-mesh",
+      "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@9e83c",
+      "displayName": "",
+      "id": "9e83c",
+      "name": "High_UV.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0b5fa": {
+      "importer": "gltf-mesh",
+      "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@0b5fa",
+      "displayName": "",
+      "id": "0b5fa",
+      "name": "Gun_dan.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18b7b": {
+      "importer": "gltf-mesh",
+      "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@18b7b",
+      "displayName": "",
+      "id": "18b7b",
+      "name": "Gun_tuo.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8a56": {
+      "importer": "gltf-material",
+      "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@b8a56",
+      "displayName": "",
+      "id": "b8a56",
+      "name": "Gun_barrel.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6929a": {
+      "importer": "gltf-material",
+      "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@6929a",
+      "displayName": "",
+      "id": "6929a",
+      "name": "Gun_case.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c299": {
+      "importer": "gltf-material",
+      "uuid": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@0c299",
+      "displayName": "",
+      "id": "0c299",
+      "name": "Gun_buttstock.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@27074",
+    "assetFinder": {
+      "meshes": [
+        "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@9e83c",
+        "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@0b5fa",
+        "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@18b7b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@b8a56",
+        "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@6929a",
+        "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@0c299"
+      ],
+      "scenes": [
+        "c32d3f8c-d1e3-49cc-9a6e-d758b994a810@27074"
+      ]
+    }
+  }
+}

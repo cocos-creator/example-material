@@ -68,9 +68,9 @@ CCProgram unlit-vs %{
 
     v_normal = normalize((matWorldIT * vec4(In.normal, 0.0)).xyz);
 
-    v_uv.xy = worldPos.xz * 0.3 + cc_time.x * 0.14;
-    v_uv2.xy = worldPos.xz * 0.2 + cc_time.y * 0.1;
-    v_uv3.xy = worldPos.xz * 0.4 + cc_time.y * 0.2;
+    v_uv.xy = worldPos.xz * 0.15 + cc_time.x * 0.15;
+    v_uv2.xy = worldPos.xz * 0.1 + cc_time.x * 0.1;
+    v_uv3.xy = worldPos.xz * 0.2 + cc_time.x * 0.2;
     return cc_matProj * cc_matView * worldPos;
   }
 }%
