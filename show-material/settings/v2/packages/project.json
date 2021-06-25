@@ -8,6 +8,18 @@
     {
       "name": "canvas_19",
       "value": 524288
+    },
+    {
+      "name": "R2SSS",
+      "value": 1
+    },
+    {
+      "name": "BlurX",
+      "value": 2
+    },
+    {
+      "name": "BlurY",
+      "value": 4
     }
   ],
   "general": {

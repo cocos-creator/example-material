@@ -52,9 +52,10 @@
         "b": 0,
         "a": 214
       },
-      "_fresnelScale": 0.6,
+      "_fresnelBase": 0.2,
+      "_fresnelScale": 0.4,
       "_fresnelIndensity": 4,
-      "IBLlevel": 0.1,
+      "levelIBL": 0.2,
       "metallic": 0
     },
     {},
